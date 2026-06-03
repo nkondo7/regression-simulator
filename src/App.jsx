@@ -368,7 +368,7 @@ export default function App() {
       <div className="app-container">
         <header className="header">
           <div>
-            <h1>関数パラメータ・シミュレータ</h1>
+            <h1>一次関数・二次関数パラメータ・シミュレータ</h1>
             <p>
               データ、手動モデル、最小二乗法モデルを切り替えて比較します。
             </p>
